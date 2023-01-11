@@ -10,3 +10,4 @@ coverage/
 tsconfig.tsbuildinfo
 .jest-cache/
 test-report.xml
+dummy.txt
